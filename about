@@ -1,0 +1,24 @@
+<section id="about">
+  <h1>Giselle Ventura</h1>
+  <h2>Data Scientist | AI Researcher | Biomedical Engineer</h2>
+  
+  <p>
+    I build AI systems that bridge biological complexity and computational innovation. 
+    Currently pursuing my Master's in Data Science at Tufts University, I combine 
+    5+ years of biomedical engineering experience with machine learning expertise 
+    to solve problems at the intersection of biology and technology.
+  </p>
+  
+  <p>
+    My work spans predictive modeling for medical devices, large-scale biological 
+    data analysis, and AI agents for multi-database integration. I'm passionate 
+    about translating complex biological questions into computational solutions 
+    that accelerate scientific discovery.
+  </p>
+  
+  <div class="links">
+    <a href="https://github.com/gventu02">GitHub</a> | 
+    <a href="https://linkedin.com/in/giselleventura">LinkedIn</a> | 
+    <a href="mailto:giselleventuramiller@gmail.com">Contact</a>
+  </div>
+</section>
